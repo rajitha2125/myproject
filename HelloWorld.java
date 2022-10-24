@@ -5,7 +5,7 @@ public class HelloWorld {
         // Prints "Hello, World" in the terminal window.
         System.out.println("Hello, World");
         System.out.println(" Hello How are you");
-      System.out.println(" Hello my new java program")
+      System.out.println(" Hello my new java program");
     }
 
 }
